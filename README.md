@@ -1,8 +1,7 @@
 <img width="523" height="477" alt="14488" align="center" src="https://github.com/user-attachments/assets/91e3cc56-da21-4a56-b00c-3b9519b8f630" />
 
 
-{ 
-  label: 'build',  // (Optional) Badge label
+{label: 'build',  // (Optional) Badge label
   message: 'passed',  // (Required) Badge message
   labelColor: '#555',  // (Optional) Label color
   color: '#4c0',  // (Optional) Message color
@@ -16,5 +15,4 @@
   // (Optional) A string with only letters, numbers, -, and _. This can be used
   // to ensure every element id within the SVG is unique and prevent CSS
   // cross-contamination when the SVG badge is rendered inline in HTML pages.
-  idSuffix: 'dd'
-}
+  idSuffix: 'dd'}
