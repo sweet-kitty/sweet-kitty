@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <img src="https://demolab.com+✧;I+am+lover,+not+fighter,+bro" alt="Typing" />
+  < src="https://demolab.com+✧;I+am+lover,+not+fighter,+bro" alt="Typing" />
 </p>
