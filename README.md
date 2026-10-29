@@ -2,4 +2,4 @@
 
 
 
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?pause=0&backgroundColor=%23141414&backgroundOpacity=0.55&cursorStyle=underline&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22.+It%27s+all+yours+...%22%2C%22color%22%3A%22%2361297d%22%2C%22letterSpacing%22%3A%220.2em%22%2C%22typingSpeed%22%3A0.5%2C%22deleteSpeed%22%3A0.5%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?pause=0&backgroundColor=%23141414&cursorStyle=underline&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22.+It%27s+all+yours+...%22%2C%22color%22%3A%22%2361297d%22%2C%22letterSpacing%22%3A%220.2em%22%2C%22typingSpeed%22%3A0.5%2C%22deleteSpeed%22%3A0.5%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
