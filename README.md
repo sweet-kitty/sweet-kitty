@@ -2,6 +2,6 @@
                       
 <details> 
   <p  align="center">
-    my moon, my <a href="https://github.com/rio-zen">man</a> 𓍯𓂃𓏧♡
+    — my moon, my <a href="https://github.com/rio-zen">man</a> 𓍯𓂃𓏧♡
   </p>
 </details>
